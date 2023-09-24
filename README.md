@@ -1,6 +1,9 @@
 # Vertex AI
 
 <sub/>
+In this project some method how to work with Vertex AI were shown.
+
+
 
 <p align="center">
 <img width="600" alt="Zrzut ekranu 2023-09-24 o 19 18 03" src="https://github.com/eda6767/Vertex_AI/assets/102791467/cb69806c-0b10-4681-a899-e6f1dc3088f5">
